@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+myvenv/
+venv/
+
+# Generated Python files
+__pycache__/
+*.py[cod]
+
+# Local database
+db.sqlite3
+db.sqlite3-journal
+
+# Private environment settings
+.env
+
+# Collected static files
+/static/
